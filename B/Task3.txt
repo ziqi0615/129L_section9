@@ -1,0 +1,1 @@
+The models are trained using the MNIST dataset. We implement two versions: one with NumPy and the other with PyTorch. Both CNN and MLP architectures are developed and trained on this dataset, with their performance assessed through confusion matrices. The training process incorporates GPU optimizations to enhance computational efficiency where possible.
